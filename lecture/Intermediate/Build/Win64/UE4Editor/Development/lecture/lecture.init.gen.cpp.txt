@@ -1,3 +1,3 @@
-D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\Definitions.lecture.h
+D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\Definitions.lecture.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

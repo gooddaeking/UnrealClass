@@ -1,9 +1,9 @@
-D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\Definitions.lecture.h
+D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\Definitions.lecture.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Git\UnrealProjects\lecture\Source\lecture/lectureGameModeBase.h
+D:\Git\UnrealProjects\lecture\lecture\Source\lecture/lectureGameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Inc\lecture\lectureGameModeBase.generated.h
+D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Inc\lecture\lectureGameModeBase.generated.h

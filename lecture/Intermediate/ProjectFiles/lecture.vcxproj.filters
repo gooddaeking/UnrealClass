@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\lecture.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{3CC92547-6915-42A0-B448-ECE9797845CB}</UniqueIdentifier>
+      <UniqueIdentifier>{FD6F9FF2-1787-4686-8C57-DC8792ADECCD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\lectureEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{91B07DB0-D037-4DAB-99EB-E0650CAD70E1}</UniqueIdentifier>
+      <UniqueIdentifier>{C1124AFD-0ED2-4F89-A9C2-9B269CE73178}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +25,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\lecture">
-      <UniqueIdentifier>{979B3019-E736-4AFB-ADFC-298BFF11305F}</UniqueIdentifier>
+      <UniqueIdentifier>{09CAB38B-95B9-4BA5-82A8-E6FBA5D3868F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture\lecture.Build.cs">
       <Filter>Source\lecture</Filter>
@@ -39,6 +40,12 @@
       <Filter>Source\lecture</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\lecture\lectureGameModeBase.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\MyActor.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\MyActor.h">
       <Filter>Source\lecture</Filter>
     </ClInclude>
   </ItemGroup>
