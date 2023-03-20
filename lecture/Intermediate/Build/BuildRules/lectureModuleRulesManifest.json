@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Git\\UnrealProjects\\lecture\\Source\\lecture\\lecture.Build.cs",
-		"D:\\Git\\UnrealProjects\\lecture\\Source\\lecture.Target.cs",
-		"D:\\Git\\UnrealProjects\\lecture\\Source\\lectureEditor.Target.cs"
+		"D:\\Git\\UnrealProjects\\lecture\\lecture\\Source\\lecture\\lecture.Build.cs",
+		"D:\\Git\\UnrealProjects\\lecture\\lecture\\Source\\lecture.Target.cs",
+		"D:\\Git\\UnrealProjects\\lecture\\lecture\\Source\\lectureEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
