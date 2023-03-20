@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "lecture",
+			"Path": "D:\\Git\\UnrealProjects\\lecture\\Source\\lecture.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "lectureEditor",
+			"Path": "D:\\Git\\UnrealProjects\\lecture\\Source\\lectureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

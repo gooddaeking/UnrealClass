@@ -1,0 +1,2 @@
+D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\Definitions.lecture.h
+D:\Git\UnrealProjects\lecture\Source\lecture\lecture.h

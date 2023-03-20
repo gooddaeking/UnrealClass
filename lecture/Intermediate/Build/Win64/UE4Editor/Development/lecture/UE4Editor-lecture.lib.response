@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-lecture.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\lectureEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\lecture.cpp.obj"
+"D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\lectureGameModeBase.cpp.obj"
+"D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\lecture.init.gen.cpp.obj"
+"D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\lectureGameModeBase.gen.cpp.obj"
+"D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\Default.rc2.res"
+/OUT:"D:\Git\UnrealProjects\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\UE4Editor-lecture.lib"
+/INCLUDE:IMPLEMENT_MODULE_lecture
