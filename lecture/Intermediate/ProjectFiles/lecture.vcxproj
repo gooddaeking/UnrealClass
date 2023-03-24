@@ -51,7 +51,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3E320790-60EF-4146-8D56-154AA826EE3F}</ProjectGuid>
+    <ProjectGuid>{A5432DC1-80E2-4BA8-AD65-98C2C78FA88F}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>lecture</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

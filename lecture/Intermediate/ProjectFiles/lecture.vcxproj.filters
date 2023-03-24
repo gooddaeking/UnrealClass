@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\lecture.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8A46066B-2801-44D6-BE1E-48B96074268C}</UniqueIdentifier>
+      <UniqueIdentifier>{237AF81A-BAED-4852-8EB7-D8E995F89CE7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{9863B658-4E3B-4B35-8351-7917A22EEC52}</UniqueIdentifier>
+      <UniqueIdentifier>{AD7684A5-C8F8-44BA-95F6-D83818D14651}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,7 +28,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\lecture">
-      <UniqueIdentifier>{3B434A1B-8498-4EAE-B3DA-BC5AA790AA7C}</UniqueIdentifier>
+      <UniqueIdentifier>{F8CD1240-F285-450C-B695-D3AF73362D52}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture\lecture.Build.cs">
       <Filter>Source\lecture</Filter>
