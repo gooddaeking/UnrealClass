@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\lecture.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FD6F9FF2-1787-4686-8C57-DC8792ADECCD}</UniqueIdentifier>
+      <UniqueIdentifier>{5B67A767-9D72-47DE-8EA6-9EAAA06F722D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C1124AFD-0ED2-4F89-A9C2-9B269CE73178}</UniqueIdentifier>
+      <UniqueIdentifier>{04A4411A-34B5-486B-86E9-93C3AA9067C9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -25,7 +25,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\lecture">
-      <UniqueIdentifier>{09CAB38B-95B9-4BA5-82A8-E6FBA5D3868F}</UniqueIdentifier>
+      <UniqueIdentifier>{B72228B7-4E61-4A83-BA9B-EBB474335B42}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture\lecture.Build.cs">
       <Filter>Source\lecture</Filter>
@@ -46,6 +46,18 @@
       <Filter>Source\lecture</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\lecture\MyActor.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\MyGameModeBase.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\MyGameModeBase.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\MyPawn.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\MyPawn.h">
       <Filter>Source\lecture</Filter>
     </ClInclude>
   </ItemGroup>
