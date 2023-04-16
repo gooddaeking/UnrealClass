@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\lecture.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{ADDADF64-09CC-42E4-8A0D-1E9F8F2D11C0}</UniqueIdentifier>
+      <UniqueIdentifier>{CD2851BA-9FC4-4B16-8901-5B00B55DE202}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{5CDB440E-A7F2-46A1-9187-4ED30102B322}</UniqueIdentifier>
+      <UniqueIdentifier>{91F755F7-BCF4-4272-B511-2A6352FEDA44}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,7 +28,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\lecture">
-      <UniqueIdentifier>{C8913296-A445-4054-A990-3381BE356B76}</UniqueIdentifier>
+      <UniqueIdentifier>{53444C36-B967-43D3-845C-FA41F8C1CB66}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture\lecture.Build.cs">
       <Filter>Source\lecture</Filter>
@@ -43,12 +43,6 @@
       <Filter>Source\lecture</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\lecture\lectureGameModeBase.h">
-      <Filter>Source\lecture</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\lecture\MyActor.cpp">
-      <Filter>Source\lecture</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\lecture\MyActor.h">
       <Filter>Source\lecture</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\lecture\MyAnimInstance.cpp">
@@ -67,12 +61,6 @@
       <Filter>Source\lecture</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\lecture\MyGameModeBase.h">
-      <Filter>Source\lecture</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\lecture\MyPawn.cpp">
-      <Filter>Source\lecture</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\lecture\MyPawn.h">
       <Filter>Source\lecture</Filter>
     </ClInclude>
   </ItemGroup>
