@@ -7,18 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="536f8931-6cd0-4493-a95e-7f825de2a972" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lecture/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/lecture/lecture.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/lecture/lecture.init.gen.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Engine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" afterDir="false" />
     </list>
@@ -292,7 +280,7 @@
       <updated>1679281004483</updated>
       <workItem from="1679281006467" duration="12805000" />
       <workItem from="1679453811226" duration="12579000" />
-      <workItem from="1681628773025" duration="4779000" />
+      <workItem from="1681628773025" duration="5960000" />
     </task>
     <servers />
   </component>
