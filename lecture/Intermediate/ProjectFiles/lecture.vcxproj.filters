@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\lecture.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{90540CA8-DB1A-449B-A945-600830B143B6}</UniqueIdentifier>
+      <UniqueIdentifier>{7698B201-F03D-420E-B4ED-859343BAB1CF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{3323ABD2-5190-4BCA-BB85-A362059B9BB7}</UniqueIdentifier>
+      <UniqueIdentifier>{967716F7-646C-4884-870B-A74AB27F654B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,7 +28,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\lecture">
-      <UniqueIdentifier>{D9072020-75AC-41BC-B9CF-3E3E80C929BB}</UniqueIdentifier>
+      <UniqueIdentifier>{4C47FD6A-13BA-49CD-8D97-2F8605B5DCC9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture\lecture.Build.cs">
       <Filter>Source\lecture</Filter>
@@ -57,10 +57,22 @@
     <ClInclude Include="..\..\Source\lecture\MyCharacter.h">
       <Filter>Source\lecture</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\MyGameInstance.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\MyGameInstance.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\lecture\MyGameModeBase.cpp">
       <Filter>Source\lecture</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\lecture\MyGameModeBase.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\MyStatComponent.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\MyStatComponent.h">
       <Filter>Source\lecture</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\lecture\MyWeapon.cpp">
