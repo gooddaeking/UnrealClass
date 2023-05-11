@@ -72,21 +72,22 @@ void AMyCharacter::Attack()
 	
 	AnimInstance->PlayAttackMontage();
 
+	AnimInstance->JumpToSectionIndex(AttackIndex);
+	AttackIndex = (AttackIndex + 1) % 3;
+
 	IsAttacking = true;
 }
 
 void AMyCharacter::UpDown(float Value)
 {
-	if(Value == 0)
-		return;
+	UpDownValue = Value;
 	
 	AddMovementInput(GetActorForwardVector(), Value);
 }
 
 void AMyCharacter::LeftRight(float Value)
 {
-	if(Value == 0)
-		return;
+	LeftRightValue = Value;
 	
 	AddMovementInput(GetActorRightVector(), Value);
 }

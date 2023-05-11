@@ -7,6 +7,24 @@
   <component name="ChangeListManager">
     <list default="true" id="536f8931-6cd0-4493-a95e-7f825de2a972" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lecture/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Animations/Greystone_Skeleton_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Animations/Greystone_Skeleton_Montage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BluePrints/BP_MyCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BluePrints/BP_MyCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/DefaultMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/DefaultMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Development/ActionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/lecture/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/lecture/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/lecture/lecture.init.gen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UE4Editor/Inc/lecture/lecture.init.gen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/lectureEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/lectureEditor/Development/Makefile.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/lectureEditor/Development/lectureEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/lectureEditor/Development/lectureEditor.uhtmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/Editor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyAnimInstance.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" afterDir="false" />
     </list>
@@ -254,16 +272,6 @@
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
       </configuration_10>
-      <configuration_11>
-        <option name="CONFIGURATION" value="" />
-        <option name="PLATFORM" value="" />
-        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/lecture.vcxproj" />
-        <option name="EXE_PATH" value="$(TargetPath)" />
-        <option name="PROGRAM_PARAMETERS" value="" />
-        <option name="WORKING_DIRECTORY" value="$(ProjectDir)" />
-        <option name="PASS_PARENT_ENVS" value="1" />
-        <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      </configuration_11>
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/lecture.vcxproj" />
       <method v="2">
         <option name="Build" />
@@ -280,7 +288,12 @@
       <updated>1679281004483</updated>
       <workItem from="1679281006467" duration="12805000" />
       <workItem from="1679453811226" duration="12579000" />
-      <workItem from="1681628773025" duration="5960000" />
+      <workItem from="1681628773025" duration="6828000" />
+      <workItem from="1681971189129" duration="1659000" />
+      <workItem from="1682165765571" duration="7409000" />
+      <workItem from="1682232376491" duration="3182000" />
+      <workItem from="1682572084797" duration="6584000" />
+      <workItem from="1683771883585" duration="1576000" />
     </task>
     <servers />
   </component>
