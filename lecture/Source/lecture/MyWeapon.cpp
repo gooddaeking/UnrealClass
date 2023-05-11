@@ -2,6 +2,8 @@
 
 
 #include "MyWeapon.h"
+#include "Components/BoxComponent.h"
+#include "MyCharacter.h"
 
 // Sets default values
 AMyWeapon::AMyWeapon()
@@ -10,6 +12,7 @@ AMyWeapon::AMyWeapon()
 	PrimaryActorTick.bCanEverTick = false;
 
 	Weapon = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("WEAPON"));
+	Trigger = CreateDefaultSubobject<UBoxComponent>(TEXT("TRIGGER"));
 	
 	static ConstructorHelpers::FObjectFinder<UStaticMesh> SW(TEXT("StaticMesh'/Game/ParagonGreystone/FX/Meshes/Heroes/Greystone/SM_Greystone_Blade_01.SM_Greystone_Blade_01'"));
 	if(SW.Succeeded())
@@ -17,12 +20,40 @@ AMyWeapon::AMyWeapon()
 		Weapon->SetStaticMesh(SW.Object);
 	}
 
-	Weapon->SetCollisionProfileName(TEXT("NoCollision"));
+	Weapon->SetupAttachment(RootComponent);
+	Trigger->SetupAttachment(Weapon);
+
+	Weapon->SetCollisionProfileName(TEXT("MyCollectible"));
+	Trigger->SetCollisionProfileName(TEXT("MyCollectible"));
+	Trigger->SetBoxExtent(FVector(30.f, 30.f, 30.f));
 }
 
 // Called when the game starts or when spawned
 void AMyWeapon::BeginPlay()
 {
 	Super::BeginPlay();
+}
+
+void AMyWeapon::PostInitializeComponents()
+{
+	Super::PostInitializeComponents();
+
+	Trigger->OnComponentBeginOverlap.AddDynamic(this, &AMyWeapon::OnCharacterOverlap);
+}
+
+void AMyWeapon::OnCharacterOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor,
+	UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bBFromSweep, const FHitResult& SweepResult)
+{
+	UE_LOG(LogTemp, Log, TEXT("Overlapped"));
+
+	AMyCharacter* MyCharacter = Cast<AMyCharacter>(OtherActor);
+	if(MyCharacter)
+	{
+		FName WeaponSocket(TEXT("hand_l_socket"));
+		
+		AttachToComponent(MyCharacter->GetMesh(),
+			FAttachmentTransformRules::SnapToTargetNotIncludingScale,
+			WeaponSocket);
+	}
 }
 
