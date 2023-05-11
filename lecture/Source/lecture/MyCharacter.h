@@ -61,5 +61,8 @@ public:
 	UStaticMeshComponent* Weapon;
 
 	UPROPERTY(VisibleAnywhere)
-	class UMyStatComponent* Stat; 
+	class UMyStatComponent* Stat;
+
+	UPROPERTY(VisibleAnywhere)
+	class UWidgetComponent* HpBar;
 };

@@ -8,7 +8,6 @@
     <list default="true" id="536f8931-6cd0-4493-a95e-7f825de2a972" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.lecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lecture/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UE4Editor.modules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/DefaultMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/DefaultMap.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
@@ -27,6 +26,10 @@
       <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/lecture/MyStatComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyStatComponent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/lecture/MyStatComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyStatComponent.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/lecture/lecture.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/lecture.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/lecture.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +296,7 @@
       <workItem from="1682165765571" duration="7409000" />
       <workItem from="1682232376491" duration="3182000" />
       <workItem from="1682572084797" duration="6584000" />
-      <workItem from="1683771883585" duration="13279000" />
+      <workItem from="1683771883585" duration="16473000" />
     </task>
     <servers />
   </component>
