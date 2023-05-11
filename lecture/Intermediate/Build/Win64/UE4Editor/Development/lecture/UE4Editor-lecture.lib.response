@@ -12,11 +12,13 @@
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyAnimInstance.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyCharacter.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyGameModeBase.cpp.obj"
+"D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyWeapon.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\lecture.init.gen.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\lectureGameModeBase.gen.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyAnimInstance.gen.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyCharacter.gen.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyGameModeBase.gen.cpp.obj"
+"D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\MyWeapon.gen.cpp.obj"
 "D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\Default.rc2.res"
 /OUT:"D:\Git\UnrealProjects\lecture\lecture\Intermediate\Build\Win64\UE4Editor\Development\lecture\UE4Editor-lecture.lib"
 /INCLUDE:IMPLEMENT_MODULE_lecture
