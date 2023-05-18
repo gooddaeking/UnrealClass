@@ -22,12 +22,7 @@
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj.filters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/lecture.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/lecture.vcxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/lecture.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/lecture.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/lecture/MyStatComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyStatComponent.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/lecture/MyStatComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/MyStatComponent.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/lecture/lecture.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/lecture/lecture.Build.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lecture.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/lecture.uproject" afterDir="false" />
     </list>
@@ -296,7 +291,8 @@
       <workItem from="1682165765571" duration="7409000" />
       <workItem from="1682232376491" duration="3182000" />
       <workItem from="1682572084797" duration="6584000" />
-      <workItem from="1683771883585" duration="16473000" />
+      <workItem from="1683771883585" duration="17158000" />
+      <workItem from="1684407655157" duration="1903000" />
     </task>
     <servers />
   </component>
