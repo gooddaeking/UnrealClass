@@ -23,4 +23,10 @@ public:
 private:
 	void RandomMove();
 	FTimerHandle TimerHandle;
+
+	UPROPERTY()
+	class UBehaviorTree* BehaviorTree;
+	
+	UPROPERTY()
+	class UBlackboardData* BlackboardData;
 };

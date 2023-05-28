@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\lecture.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1D3C8DFB-0B81-46BE-B252-760B5D6D9B9A}</UniqueIdentifier>
+      <UniqueIdentifier>{645DD283-443F-46A1-B2C6-44EBB90F9C93}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\lecture.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F7B5EB31-E374-4444-A8B5-63C9BCB31761}</UniqueIdentifier>
+      <UniqueIdentifier>{5984A6F3-CC6D-4E77-BD1F-E3A8E73BA4F9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,8 +28,32 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\lecture">
-      <UniqueIdentifier>{8AD5D063-5B7A-4D04-A3A3-C34D72BE1CC4}</UniqueIdentifier>
+      <UniqueIdentifier>{3CF8B204-B256-4296-A46C-43F22618700C}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\lecture\BTDecorator_CanAttack.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\BTDecorator_CanAttack.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\BTService_SearchTarget.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\BTService_SearchTarget.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\BTTask_Attack.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\BTTask_Attack.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\lecture\BTTask_FindPatrolPos.cpp">
+      <Filter>Source\lecture</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\lecture\BTTask_FindPatrolPos.h">
+      <Filter>Source\lecture</Filter>
+    </ClInclude>
     <None Include="..\..\Source\lecture\lecture.Build.cs">
       <Filter>Source\lecture</Filter>
     </None>
